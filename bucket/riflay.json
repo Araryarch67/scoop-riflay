@@ -1,13 +1,13 @@
 {
-    "version": "1.1.11",
+    "version": "1.2.0",
     "description": "Music player for your own music and YouTube Music, with hi-fi audio",
     "homepage": "https://github.com/Araryarch67/Riflay",
     "license": "AGPL-3.0-only",
     "notes": "Your library, settings and sign-ins are kept in %APPDATA%\\dev.riflay\\riflay, so updating or uninstalling keeps them.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Araryarch67/Riflay/releases/download/v1.1.11/Riflay-windows-x64.zip",
-            "hash": "6ac15330c8f343123da656b8a0780cd59a547d90a9f51f7f5f50869dedfff3b1"
+            "url": "https://github.com/Araryarch67/Riflay/releases/download/v1.2.0/Riflay-windows-x64.zip",
+            "hash": "9b166411c46f3e8138f850482f2ae048e0c2ef14b52a4e102a8780146391f61d"
         }
     },
     "shortcuts": [
